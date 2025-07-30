@@ -52,7 +52,9 @@ _2_sim_out_results_inspect:_ Script for calculating values for results and visua
 All plots were done fore each species and scenarios. Each species meaning: all combinations or e, c, and alpha.
 
 _3_propocc_time_series.R:_ Script for plotting proportion of occupied sites over time.
+
 _4_percentage_of_extinct_metapops.R:_ Script for metapopulation extinction percentage over time.
+
 _5_hysteresis.R:_ Script for hysteresis plots - proportion of occupied sites over number of available patches.
 
 

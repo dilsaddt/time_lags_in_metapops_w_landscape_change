@@ -29,7 +29,7 @@ _sim_obsDat_landdeg_function_faster_100425.R:_ Simulation function for metapopul
 
 _sim_obsDat_landrest_function_faster_100425.R:_ Simulation function for metapopulation under landscape degradation and restoration, adapted from Sutherland et al., 2014, Ecology, doi: 10.1890/14-0384.1 & Bertasello et al., 2021, Royal Soc. Open Sci. doi: 10.1098/rsos.201309
 
-### Simulation scripts: R functions for simulation
+### Simulation scripts: Scripts for simulations
 
 The scripts here are examples for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80. All of them are used to simulate combinations with different species traits and degradation percentages. This includes low-, mid-, high-values of these parameters:
 

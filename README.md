@@ -5,7 +5,7 @@ Description: Simulation models using metapopulation modeling framework to invest
 **Manuscript in preparation:**  
 Dagtekin, D., Moor, H., & Sutherland, C. (2025).  
 _**Extinction debts and colonisation lags in the response of spatially structured populations to degradation and restoration**_.  
-_To be submitted to: Ecology Letters_. [OSF Project Link](https://osf.io/xxxxx)
+_To be submitted to: Ecology Letters_. [Open Science Framework (OSF) Project Link]([https://osf.io/puvck/])
 
 ---
 

@@ -54,8 +54,6 @@ All plots were done fore each species and scenarios. Each species meaning: all c
 _3_propocc_time_series.R:_ Script for plotting proportion of occupied sites over time.
 _4_percentage_of_extinct_metapops.R:_ Script for metapopulation extinction percentage over time.
 _5_hysteresis.R:_ Script for hysteresis plots - proportion of occupied sites over number of available patches.
-_6_landscape_change_lambdaM_plots.R:_ Script for checking metapopulation capacity change over time with landscape change (degradation and restoration). This was used in methods to show the change in landscape and its relationship with metapopulation capacity, not in results.
-
 
 
 

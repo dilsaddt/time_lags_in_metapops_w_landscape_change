@@ -40,11 +40,22 @@ degradation percentage = {20, 50, 80}
 These scripts include 10 landscape repetitions and 50 metapopulation repetitions in each landscape. For the whole study in total 20 landscape repetitions and 50 metapopulation repetitions in each landscape were simulated.
 
 _sim_landdeg_a500_80p.R:_ Simulation script for landscape degradation only scenario.
-Example script for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80. Can be adapted for low
+Example script for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80.
 
 ### Results inspection: Scripts for processing simulation ouputs
 
-### Visualization: Scripts for visualizing ouputs 
+_1_sim_out_results_merge_repetitions_process.R:_ Script for checking simulation output and merging landscape repetitions (2 scripts, each with 10 reps) for each scenario (degradation only & degradation + restoration) 
+
+_2_sim_out_results_inspect:_ Script for calculating values for results and visualization for each scenario (degradation only & degradation + restoration), e.g., proportion of occupied sites, number of occupied sites, number of patches in each year
+
+### Visualization: Scripts for visualizing ouputs
+All plots were done fore each species and scenarios. Each species meaning: all combinations or e, c, and alpha.
+
+_3_propocc_time_series.R:_ Script for plotting proportion of occupied sites over time.
+_4_percentage_of_extinct_metapops.R:_ Script for metapopulation extinction percentage over time.
+_5_hysteresis.R:_ Script for hysteresis plots - proportion of occupied sites over number of available patches.
+_6_landscape_change_lambdaM_plots.R:_ Script for checking metapopulation capacity change over time with landscape change (degradation and restoration). This was used in methods to show the change in landscape and its relationship with metapopulation capacity, not in results.
+
 
 
 

@@ -43,8 +43,9 @@ degradation percentage = {20, 50, 80}
 
 These scripts include 10 landscape repetitions and 50 metapopulation repetitions in each landscape. For the whole study in total 20 landscape repetitions and 50 metapopulation repetitions in each landscape were simulated.
 
-_sim_landdeg_a500_80p.R:_ Simulation script for landscape degradation only scenario.
-Example script for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80.
+_sim_landdeg_a500_80p.R:_ Simulation script for landscape degradation only scenario. Example script for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80.
+
+_sim_landrest_a500_80p.R:_ Simulation script for landscape degradation and restoration scenario. Example script for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80.
 
 ### Results inspection: Scripts for processing simulation ouputs
 

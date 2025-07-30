@@ -32,9 +32,13 @@ _sim_obsDat_landrest_function_faster_100425.R:_ Simulation function for metapopu
 ### Simulation scripts: R functions for simulation
 
 The scripts here are examples for only intermediate dispersal (alpha = 1/500) and degradation percentage = 80. All of them are used to simulate combinations with different species traits and degradation percentages. This includes low-, mid-, high-values of these parameters:
+
 alpha = {1/200, 1/500, 1/1000}
+
 e = {0.2, 0.5, 0.8}
+
 c = {0.4, 1, 1.6}
+
 degradation percentage = {20, 50, 80}
 
 These scripts include 10 landscape repetitions and 50 metapopulation repetitions in each landscape. For the whole study in total 20 landscape repetitions and 50 metapopulation repetitions in each landscape were simulated.
